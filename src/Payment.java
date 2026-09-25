@@ -1,0 +1,1 @@
+record Payment(String id, String merchantId, long amountMinor) {};
